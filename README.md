@@ -2,6 +2,8 @@
 
 📖[Paper]() | 🤗[Huggingface](https://huggingface.co/datasets/Muyi13/RAG-IGBench)
 
+🎉 RAG-IGBench has been accepted as a poster at NeurIPS 2025 Datasets and Benchmarks Track!
+
 In real-world scenarios, providing user queries with visually enhanced responses can considerably benefit understanding and memory, underscoring the great value of interleaved image-text generation. 
 
 Therefore, we present **Interleaved Generation** based on **Retrieval-Augmented Generation** (RAG-IG) and the corresponding **RAG-IGBench**, a thorough benchmark designed specifically to evaluate the task. By integrating MLLMs with the RAG paradigm, we achieve high-quality and semantically coherent image-text interleaved generation.
