@@ -2,7 +2,7 @@
 
 📖[Paper]() | 🤗[Huggingface](https://huggingface.co/datasets/Muyi13/RAG-IGBench)
 
-🎉 RAG-IGBench has been accepted as a poster at NeurIPS 2025 Datasets and Benchmarks Track!
+## 🎉 [2025.9.19] RAG-IGBench has been accepted as a poster at NeurIPS 2025 Datasets and Benchmarks Track!
 
 In real-world scenarios, providing user queries with visually enhanced responses can considerably benefit understanding and memory, underscoring the great value of interleaved image-text generation. 
 
