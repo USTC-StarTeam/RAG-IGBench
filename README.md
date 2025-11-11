@@ -1,6 +1,6 @@
 # RAG-IGBench: Innovative Evaluation for RAG-based Interleaved Generation in Open-domain Question Answering
 
-📖[Paper]() | 🤗[Huggingface](https://huggingface.co/datasets/Muyi13/RAG-IGBench)
+📖[Paper](https://github.com/USTC-StarTeam/RAG-IGBench/blob/main/RAG_IGBench.pdf) | 🤗[Huggingface](https://huggingface.co/datasets/Muyi13/RAG-IGBench)
 
 ## 🎉 [2025.9.19] RAG-IGBench has been accepted as a poster at NeurIPS 2025 Datasets and Benchmarks Track!
 
